@@ -2,7 +2,8 @@
 Project idea:
 The Myers Briggs Type Indicator is a personality type system that divides a person into 16 distinct personalities based on introversion, intuition, thinking and perceiving capabilities. We can identify the personality of a person from the type of posts they put on social media.
 
-I have downloaded the dataset from :  https://www.kaggle.com/datasnaek/mbti-type
+I have downloaded the dataset from :  https://www.kaggle.com/datasnaek/mbti-type.
+
 I have used NLP(Natural Language processing ) for this project .
 
 Let's see what is  Myers Briggs Type Indicator?
@@ -22,4 +23,5 @@ Judging (J) versus Perceiving (P). This final dimension was added to the MBTI by
 
 Sixteen Personality Types:
 The four dimensions yield 16 personality types, each of which is supposed to be different and distinctive. Each type is described by a four-letter code. For example, an ISTJ is introverted, sensing, thinking, and judging, and an ENFP is extraverted, intuitive, feeling, and perceiving. One’s type is considered immutable and the categories an individual falls into based on the MBTI are thought to dominate a person’s personality.
+
 They are : ISTJ , ISTP , INTP , ESTP , ISFP , ISFJ , INTJ , ESTJ , INFP , INFJ , ESFP , ENFP , ESFJ , ENTP , ENTJ , ENFJ
