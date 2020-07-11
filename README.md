@@ -6,6 +6,8 @@ I have downloaded the dataset from :  https://www.kaggle.com/datasnaek/mbti-type
 
 I have used NLP(Natural Language processing ) for this project .
 
+I have created a blog that explains each and every steps : https://maithrisuresh.github.io/
+
 Let's see what is  Myers Briggs Type Indicator?
 
 The Myers-Briggs Type Indicator was developed by Isabel Briggs Myers and her mother, Katherine Briggs, to identify an individual’s personality type among 16 possibilities.
